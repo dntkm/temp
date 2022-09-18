@@ -6,5 +6,7 @@ void func(){
 	int b;
 	cin>>a;
 	cout<<a<<endl;
+	cin>>b;
+	cout<<b<<endl;
 	return;
 }
